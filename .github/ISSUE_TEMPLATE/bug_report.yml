@@ -1,0 +1,56 @@
+name: Bug report
+description: Something in Bifurc does not work as it should.
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Bifurc version
+      description: As shown in the app, or in the file name you downloaded.
+      placeholder: "0.4.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows 11
+        - Windows 10
+        - Linux (Debian / Ubuntu)
+        - Linux (other)
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: How you installed it
+      options:
+        - Microsoft Store
+        - Windows installer (.exe)
+        - Windows portable (.zip)
+        - Linux .deb
+        - Linux AppImage
+        - Linux tarball
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove tokens, hostnames and anything else private first.

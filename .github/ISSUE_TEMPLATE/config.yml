@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://bifurc.harshalkudale.com/docs
+    about: Guides and reference for Bifurc.
+  - name: Licensing and commercial use
+    url: https://bifurc.harshalkudale.com/contact
+    about: Questions about licensing, teams over 10 users, or partnerships.
