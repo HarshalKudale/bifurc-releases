@@ -34,7 +34,8 @@ The Store build installs and updates itself, with no admin prompt.
 The optional companion pairs your browser with the desktop app: proxy toggle, DevTools capture and one-click
 mocks.
 
-[**Add Bifurc Companion to Chrome**](https://chromewebstore.google.com/detail/bifurc-companion/dcifgipphabedoiemccjpocgiganpjhi)
+[**Add Bifurc Companion to Chrome**](https://chromewebstore.google.com/detail/bifurc-companion/dcifgipphabedoiemccjpocgiganpjhi) ·
+[**Add Bifurc Companion to Firefox**](https://addons.mozilla.org/en-US/firefox/addon/bifurc-companion/)
 
 ## Report a bug or ask for something
 
