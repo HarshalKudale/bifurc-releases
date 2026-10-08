@@ -53,5 +53,5 @@ in case it is already reported.
 - Website, docs and download page: <https://bifurc.app/>
 - Licensing and other questions: <contact@bifurc.app>
 
-Bifurc is free for individual developers and teams of up to 10 users. Please read the terms of use on the
-website before using it commercially.
+Bifurc's source is available under the PolyForm Noncommercial License 1.0.0: you may use it for
+non-commercial purposes only. See the LICENSE in the source repository.
