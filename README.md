@@ -1,6 +1,6 @@
 # Bifurc Releases
 
-[![Website](https://img.shields.io/badge/Website-bifurc.harshalkudale.com-4F46E5?logo=googlechrome&logoColor=white)](https://bifurc.harshalkudale.com/)
+[![Website](https://img.shields.io/badge/Website-bifurc.app-4F46E5?logo=googlechrome&logoColor=white)](https://bifurc.app/)
 [![Latest release](https://img.shields.io/github/v/release/HarshalKudale/bifurc-releases?display_name=tag&sort=semver)](https://github.com/HarshalKudale/bifurc-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/HarshalKudale/bifurc-releases/total?label=downloads)](https://github.com/HarshalKudale/bifurc-releases/releases)
 [![Open issues](https://img.shields.io/github/issues/HarshalKudale/bifurc-releases)](https://github.com/HarshalKudale/bifurc-releases/issues)
@@ -50,8 +50,8 @@ in case it is already reported.
 
 ## More
 
-- Website, docs and download page: <https://bifurc.harshalkudale.com/>
-- Licensing and other questions: <bifurc@harshalkudale.com>
+- Website, docs and download page: <https://bifurc.app/>
+- Licensing and other questions: <contact@bifurc.app>
 
 Bifurc is free for individual developers and teams of up to 10 users. Please read the terms of use on the
 website before using it commercially.
